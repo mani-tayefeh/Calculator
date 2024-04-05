@@ -6,7 +6,7 @@
 # and then the code procces run and calculate and show resualt
 
 # for example : 
-# number 1 : 23
-# operator : + or plus or Plus
-# number 2 : 12
-# resualt : 35
+#### number 1 : 23
+#### operator : + or plus or Plus
+#### number 2 : 12
+#### resualt : 35
